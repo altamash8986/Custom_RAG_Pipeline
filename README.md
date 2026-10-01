@@ -38,8 +38,8 @@ You can run this engine natively on your local machine or via a Docker container
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/altamash8986/RAG_Pipeline.git](https://github.com/altamash8986/RAG_Pipeline.git)
-   cd RAG_Pipeline
+   git clone [https://github.com/altamash8986/Custom_RAG_Pipeline.git](https://github.com/altamash8986/Custom_RAG_Pipeline.git)
+   cd Custom_RAG_Pipeline
 
 # 👨‍💻 Author
 
